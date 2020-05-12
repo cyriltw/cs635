@@ -3,7 +3,7 @@ main:
     url: /posts/
   - title: "Categories"
     url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Publications"
+    url: https://scholar.google.com/citations?user=P6zvClgAAAAJ&hl=en
   - title: "About"
     url: /about/
