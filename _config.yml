@@ -26,7 +26,7 @@ search: true
 breadcrumbs: true
 breadcrumb_home_label : "Start"
 breadcrumb_separator  : ">"
-
+share: false
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
